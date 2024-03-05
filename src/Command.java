@@ -1,4 +1,4 @@
 public interface Command {
-void excute();
+void execute();
 void undo();
 }
