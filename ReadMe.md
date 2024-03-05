@@ -17,6 +17,5 @@ This is a simple text editor application implemented using the Command design pa
 1. **Compile:** Compile all the Java files in the src directory.
    ```bash
    javac src/*.java
-
-Run: Run the Main class.
+Run
 java src.Main
