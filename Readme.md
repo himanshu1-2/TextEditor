@@ -1,3 +1,7 @@
+# Command Pattern Text Editor
+
+This is a simple text editor application implemented using the Command design pattern in Java.
+
 ## Features
 
 - **Display:** Display the entire content of the text editor.
